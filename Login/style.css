@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+*{
+
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+.conteiner{
+
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.c-login {
+
+    font-weight: bold;
+    text-align: center;
+
+}
+
+button{
+    margin: 10px 0px 20px;
+    width: 102%;
+    height: 7vh;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    border: none;
+    color: white;
+    cursor: pointer;
+    box-shadow: 1px 0px 5px rgb(255, 1, 1);
+}
+
+
+.inp{
+   
+
+    padding: 4% 0px 4%;
+    width: 110%;
+    height: 45px;
+    
+
+}
+
+a{
+
+    text-decoration: none;
+    color:  #00E0FF;
+
+}
+
+button[type="submit"]:hover {
+
+    background-color: rgb(209, 0, 0);   
+    transition: 0.5;
+    
+
+}
+
+p{
+
+    font-weight: bold;
+
+}
+
+.inp input::placeholder{
+
+    color: #515050;
+    
+
+
+}
+
+
+
+.inp input{
+    
+    padding: 1% 4px;
+    border: none;
+    background-color: #51505060;
+    width: 90%;
+    height: 100%;
+    outline: none;
+    
+
+
+}
+
+
+
+
+main{
+
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
