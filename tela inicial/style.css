@@ -13,16 +13,21 @@ body{
 
 }
 
+.fundo{
+
+    background-color: rgb(211, 5, 5);
+}
+
 .horario h5{
 
     display: flex;
     justify-content: right;
     padding: 10px 0px;
-    max-width: 1110px;
-    margin: 0px 0px 0px;
+    max-width: 100%;
+    margin: 0px 10px 0px;
     color: white;
     font-weight: bold;
-    background-color: rgb(211, 5, 5);
+    
     
 }
 
