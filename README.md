@@ -7,6 +7,10 @@
  
  https://eduardosgg.github.io/MercadoNeww/Adicionar/index.html
  
- 
+                            OUTROS PROJETOS
+                            
+https://eduardosgg.github.io/Login/
+https://eduardosgg.github.io/Projeto-cordel/
+https://eduardosgg.github.io/Eduardosgg.github.oi/
  
 
